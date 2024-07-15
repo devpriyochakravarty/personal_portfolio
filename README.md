@@ -76,7 +76,7 @@ portfolio-website/
 
 2. Navigate to the project directory:
    ```
-   cd portfolio-website
+   cd portfolio_website
    ```
 
 3. Open `index.html` in your preferred web browser.
